@@ -1,0 +1,16 @@
+.Header {
+    width: 1230px;
+    height: 81px;
+    border-radius: 125px;
+    background-color: grey;
+}
+
+.HeaderLogo {
+    color: #ffffff;
+}
+
+.HeaderLinks {
+    width: 125px;
+    height: 25px;
+    color: #284854;
+}
