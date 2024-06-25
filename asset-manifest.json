@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/indevets/static/css/main.7acaea2f.css",
-    "main.js": "/indevets/static/js/main.07d3183d.js",
+    "main.css": "/indevets/static/css/main.2441683f.css",
+    "main.js": "/indevets/static/js/main.35bff88b.js",
+    "static/media/Roboto-Regular.ttf": "/indevets/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/Roboto-Bold.ttf": "/indevets/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
+    "static/media/NunitoSans_10pt-Regular.ttf": "/indevets/static/media/NunitoSans_10pt-Regular.7a5b1e324beb1081259a.ttf",
+    "static/media/NunitoSans_10pt-Bold.ttf": "/indevets/static/media/NunitoSans_10pt-Bold.e43c5a897c0189a89b62.ttf",
     "index.html": "/indevets/index.html",
-    "main.7acaea2f.css.map": "/indevets/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/indevets/static/js/main.07d3183d.js.map"
+    "main.2441683f.css.map": "/indevets/static/css/main.2441683f.css.map",
+    "main.35bff88b.js.map": "/indevets/static/js/main.35bff88b.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.2441683f.css",
+    "static/js/main.35bff88b.js"
   ]
 }
